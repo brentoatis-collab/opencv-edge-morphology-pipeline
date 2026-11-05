@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Applying edge detection and morphology to inspection, defect, and image-cleanup workflows.
+
 # CST544_Week2_EdgeDetection
 
 # Real-Time Edge Detection and Morphological Filtering
