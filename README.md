@@ -103,7 +103,7 @@ CST544_Week2_EdgeDetection/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CST544_Week2_EdgeDetection.git
+git clone https://github.com/brentoatis-collab/opencv-edge-morphology-pipeline.git
 ```
 
 ---
